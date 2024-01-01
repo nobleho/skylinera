@@ -1,0 +1,7 @@
+DELIMITER //
+CREATE PROCEDURE `filterConfig`(IN done BOOLEAN)
+BEGIN
+SELECT * FROM config WHERE deleted = done;
+END//
+
+DELIMITER ;

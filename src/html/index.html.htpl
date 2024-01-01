@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="http://localhost:4455/favicon.ico">
+    <title>Sky Line Era</title>
+    <link rel="fluid-icon" href="http://localhost:4455/logo.ico" title="Skylinera">
+    <link rel="mask-icon" href="http://localhost:4455/logo.svg" color="#000000">
+</head>
+<body>
+    <div>{bodycontent}</div>
+</body>
+</html>
