@@ -9,6 +9,26 @@
     <link rel="mask-icon" href="http://localhost:4455/logo.svg" color="#000000">
 </head>
 <body>
+<div style="text-align: center" >
+    <pre>
+    ==========================================================================================================================================================================================<br>
+    ||                                                                                                                                                                                      ||<br>
+    ||                                                                                                                                                                                      ||<br>
+    ||      sS sS           kK          kK                              lL                   iI       nN           nN       eE  eE  eE  eE       rR  rR  rR  rR               aA            ||<br>
+    ||  sS          sS      kK      kK                                  lL                   iI       nN           nN       eE                   rR                       aA      aA        ||<br>
+    ||  sS          sS      kK  kK              yY              yY      lL                   iI       nN   nN      nN       eE                   rR                   aA              aA    ||<br> 
+    ||      sS              kKkK                yY              yY      lL                   iI       nN           nN       eE  eE  eE  eE       rR                   aA              aA    ||<br> 
+    ||          sS          kKkK                    yY      yY          lL                   iI       nN       nN  nN       eE                   rR                   aA  aA  aA  aA  aA    ||<br>
+    ||              sS      kK  kK                      yY              lL                   iI       nN           nN       eE                   rR                   aA              aA    ||<br>
+    ||  sS          sS      kK      kK                  yY              lL                   iI       nN           nN       eE                   rR                   aA              aA    ||<br>
+    ||      sS  sS          kK          kK              yY              lL  lL  lL  lL       iI       nN           nN       eE  eE  eE  eE       rR                   aA              aA    ||<br>
+    ||                                                  yY                                                                                                                                  ||<br>
+    ||--------------------------------------------------yY----------------------------------------------------------------------------------------------------------------------------------||<br>
+    ||                                                                                                                                                                                      ||<br>
+    ||                                                                  Version: 0.0.1a  -  2024.01.01 MIT                                                                                  ||<br>
+    ||======================================================================================================================================================================================||<br>
+    </pre>
+</div>
     <div>{bodycontent}</div>
 </body>
 </html>
